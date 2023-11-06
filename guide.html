@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guide</title>
+  <link rel="stylesheet" href="css/guide.css">
+</head>
+
+<body>
+  <div class="wrap">
+
+    <h1>Git with Sass</h1>
+
+    <div class="code-info">
+      <h2><strong>Sass 설치</strong></h2>
+      <div class="code-preview"></div>
+      <ul class="code-list">
+        <li><a href="https://nodejs.org/en" target=" _blank">node.js 설치</a></li>
+        <li><a href="https://nodejs.org/en/download" target=" _blank">node.js 설치(Mac)</a></li>
+        <li>npm i sass -g</li>
+        <li>sass --version</li>
+        <li><a href="https://goforit.tistory.com/106">Sass 선택자</a></li>
+      </ul>
+    </div>
+
+    <pre>
+      <code>
+index.html에 style.css를 링크
+sass 폴더 생성후 하위에 _reset.scss. style.scss 생성
+_reset.scss 생성 후 스니펫 적용 코드 my:reset 엔터
+style.scss 에 @import 'reset'; 리셋 컴파일
+sass --watch scss/style.scss:css/style.css
+      </code>
+    </pre>
+
+    <div class="code-info">
+      <h2><strong>Git</strong></h2>
+      <ul class="code-list">
+        <li><a href="https://git-scm.com/download/win" target="_blank">Git 설치</a></li>
+        <li><a href="https://git-scm.com/download/mac" target="_blank">Git 설치(Mac)</a></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
+
+    <pre>
+        <code>
+$ git init : 빈 레퍼지토리 생성
+$ git add . : 변경 사항 기록
+$ git status : 프로젝트 어떻게 관리 되고 있는지 확인
+$ git config --global user.name '사용자명'
+$ git config --global user.email '이메일@주소'
+$ git config user.name 확인
+$ git config user.email 확인
+$ git remote add origin https://github.com/yuna-c/Git-tutorial.git 저장소 등록
+        </code>
+    </pre>
+  </div>
+
+</body>
+
+</html>
