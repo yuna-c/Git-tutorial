@@ -1,6 +1,6 @@
 # Git-tutorial
-Git tutorial with sass
-https://yuna-c.github.io/Git-tutorial/guide.html
+Git tutorial with sass<br>
+https://yuna-c.github.io/Git-tutorial/guide.html<br><br>
 
 cd : D > D 폴더로 변경
 cd : pro + tab > 자동 완성
