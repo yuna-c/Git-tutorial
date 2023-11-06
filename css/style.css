@@ -25,12 +25,13 @@ section article {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: palevioletred;
-  border: 1px solid palevioletred;
+  background-color: rosybrown;
+  border: 1px solid rosybrown;
 }
 section article h1 {
   color: #fff;
   font-size: 2rem;
+  font-weight: 600;
 }
 
 /*# sourceMappingURL=style.css.map */
