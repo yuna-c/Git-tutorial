@@ -2,8 +2,8 @@
 
 Git tutorial with sass<br>
 https://yuna-c.github.io/Git-tutorial/guide.html<br>
-https://yuna-c.github.io/Git-tutorial/index.html<br><br>
-https://velog.io/@marksen/Git-Branch%EC%99%80-Merge
+https://yuna-c.github.io/Git-tutorial/index.html<br>
+https://velog.io/@marksen/Git-Branch%EC%99%80-Merge<br><br>
 
 cd desktop <br>
 mkdir 폴더생성 <br>
