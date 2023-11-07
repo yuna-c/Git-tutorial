@@ -1,8 +1,10 @@
 # Git-tutorial
 
-<h2>Git tutorial with sass</h2><br>
+<h2>Git tutorial with sass</h2>
 https://yuna-c.github.io/Git-tutorial/guide.html<br>
 https://yuna-c.github.io/Git-tutorial/index.html<br>
+
+<h2>Git tutorial example</h2>
 https://velog.io/@marksen/Git-Branch%EC%99%80-Merge<br><br>
 
 cd desktop <br>
