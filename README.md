@@ -1,6 +1,6 @@
 # Git-tutorial
 
-Git tutorial with sass<br>
+<h2>Git tutorial with sass</h2><br>
 https://yuna-c.github.io/Git-tutorial/guide.html<br>
 https://yuna-c.github.io/Git-tutorial/index.html<br>
 https://velog.io/@marksen/Git-Branch%EC%99%80-Merge<br><br>
